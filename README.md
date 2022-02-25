@@ -18,3 +18,5 @@ ECS, ECR & Fargate: Docker in AWS
 AWS Security best practices: KMS, Encryption SDK, SSM Parameter Store, IAM Policies
 
 AWS Other Services Overview: CloudFront, Step Functions, SWF, Redshift
+
+Instructor: Stephane Maarek, AWS Solutions Artictect & AWS Instructor
