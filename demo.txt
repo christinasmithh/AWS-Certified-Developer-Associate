@@ -1,1 +1,38 @@
 test
+christinagrys@Christinas-MacBook-Pro ~ % aws configure
+
+AWS Access Key ID [****************ZP4K]: ********************
+
+AWS Secret Access Key [None]: *************************************
+
+Default region name [None]: us-east-2
+
+Default output format [None]: 
+
+christinagrys@Christinas-MacBook-Pro ~ % aws iam list-users
+
+{
+
+    "Users": [
+
+        {
+
+            "Path": "/",
+
+            "UserName": "Christina",
+
+            "UserId": "AIDAT7NJFPDHTQMOFXLK2",
+
+            "Arn": "arn:aws:iam::273622071536:user/Christina",
+
+            "CreateDate": "2022-02-24T20:17:01+00:00",
+
+            "PasswordLastUsed": "2022-02-25T15:08:40+00:00"
+
+        }
+
+    ]
+
+}
+
+christinagrys@Christinas-MacBook-Pro ~ % 
