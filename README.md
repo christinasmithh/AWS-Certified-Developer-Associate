@@ -1,4 +1,4 @@
-# AWS-Certifed-Developer-Associate
+# AWS-Certified-Developer-Associate
 The AWS Fundamentals: IAM, EC2, Load Balancing, Auto Scaling, EBS, Route 53, RDS, ElastiCache, S3
 
 The AWS CLI: CLI setup, usage on EC2, best practices, SDK, advanced usage
